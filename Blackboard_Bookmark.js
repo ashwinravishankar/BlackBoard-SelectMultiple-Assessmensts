@@ -1,11 +1,11 @@
 javascript: (function () {
     var table = document.getElementById('listContainer_databody');
     var names_List = [
-        'Sample Name 1',
-        'Sample Name 2',
-        'Sample Name 3',
-        'Sample Name 4',
-        'Sample Name 5',
+        'LastName, FirstName 1',
+        'LastName, FirstName 2',
+        'LastName, FirstName 3',
+        'LastName, FirstName 4',
+        'LastName, FirstName 5'
     ];
 
     var i = 0;
