@@ -1,5 +1,5 @@
 # BlackBoard-SelectMultiple-Assessmensts
-A simple JavaScript module to select multiple student assignment submissions from blackboard.
+A simple JavaScript module to select multiple student assignment submissions and download from blackboard.
 
 ## File Details
 1. Blackboard_Bookmark.js --> BookMarklet conversion script
